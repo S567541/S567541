@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am Busha Pavan Kalyan and I am from India. I have finished my schooling in Ekashila Public School and My bachlores in Rajiv Gandhi University of knowledge Technologies. I did my bachlores in Electrical and Electronics Engineering. When I was in third year I got intrest in coading. That is the reason why I am masters in computer science. My hobbies are Playing Cricket and Chess. 
 
 <!--
 **S567541/S567541** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
